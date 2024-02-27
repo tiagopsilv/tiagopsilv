@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-**I am a distinguished MIS Specialist with a robust background in the IT sector, particularly excelling in the development of advanced data management and analytical solutions. My expertise extends significantly into the financial industry, where I have spearheaded the creation of applications critical for the Banco Master's strategic data analysis, financial planning, and operational excellence.**
+**I am a distinguished MIS Specialist with a robust background in the IT sector, particularly excelling in the development of advanced data management and analytical solutions. My expertise extends significantly into the financial industry, where I have spearheaded the creation of applications critical for strategic data analysis, financial planning, and operational excellence within various banks and financial institutions.**
 
 **Throughout my career, I have designed and implemented a wide array of applications targeting key financial operations such as Brokerage, Cards, Payroll Loans, Sinacor, Funding, DOC3040, Checking Accounts, Assignment, Personal Credit, Foreign Exchange, and Commissions. These tools are essential for generating comprehensive reports that offer invaluable insights into performance metrics, financial statuses, and strategic decision-making processes, demonstrating my pivotal role in the intersection of IT and financial services.**
 
