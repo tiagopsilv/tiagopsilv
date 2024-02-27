@@ -18,7 +18,7 @@
 
 ### Education 🎓
 
--**MBA Data Science and Analytics** - Universidade de São Paulo USP - In progress
+- **MBA Data Science and Analytics** - Universidade de São Paulo USP - In progress
 - **MBA in Software Engineering** - Faculdade de Informática e Administração Paulista (FIAP) 
 - **Bachelor's Degree in Information Systems** - Faculdade de Informática e Administração Paulista (FIAP)
 - **Technical in Computer Science** - Colégio Módulo Paulista
